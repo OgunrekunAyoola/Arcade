@@ -60,7 +60,7 @@ A fully responsive hotel booking website for **Arcade Suites**, built with React
 
 1. Clone the repository:
 
-git clone https://github.com/ogunrekunayoola/arcade-suites.git
+git clone https://github.com/OgunrekunAyoola/Arcade.git
 cd arcade-suites
 
 2. Install dependencies:
