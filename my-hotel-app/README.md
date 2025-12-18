@@ -20,7 +20,7 @@ A fully responsive hotel booking website for **Arcade Suites**, built with React
 
 ## Demo
 
-> You can provide a deployed demo link here if available (Render, Netlify, Vercel, etc.)
+> arcadesuites.netlify.app
 
 ---
 
